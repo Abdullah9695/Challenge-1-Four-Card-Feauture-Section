@@ -1,0 +1,238 @@
+body{
+  margin: 0;
+   background-color: hsl(0, 0%, 98%);
+   position: relative;
+
+}
+/* .big-container{
+
+height:auto;
+  position: relative;
+  background-color: hsl(0, 0%, 98%);
+  margin-top: 0px;
+
+
+} */
+
+.head-container{
+
+  height: 250px;
+  /* background-color: red; */
+  /* display: inline-block; */
+  width: 500px;
+  position: static;
+  margin-top: 20px;
+  margin-left: 420px;
+   background-color: hsl(0, 0%, 98%);
+
+
+
+
+}
+.head-para{
+  width: 91%;
+    text-align: center;
+
+    color: #84a9ac;
+      font-family: 'Poppins', sans-serif;
+
+
+
+  }
+  h1{
+
+
+  }
+.heading-HC{
+  padding-left: 55px;
+    font-family: 'Poppins', sans-serif;
+  /* text-align: center;
+  padding-left: 20px; */
+  font-size: 30px;
+margin-bottom: 0;
+font-weight: 100;
+color:#84a9ac;
+
+
+
+}
+.heading2-HC{
+  font-family: 'Poppins', sans-serif;
+  padding-left: 55px;
+font-weight: 900;
+font-size: 31.5px;
+}
+
+/* .supervisor{
+  background-color: blue;
+  height: 100px;
+  position: absolute;
+  margin-top: 100px;
+}
+.team-builder{
+  background-color: yellow;
+  height: 100px;
+  position: absolute;
+  margin-top: 100px;
+}
+.karma{
+  background-color: grey;
+  height:100px;
+  position: absolute;
+  margin-top: 100px;
+}*/
+.calculator{
+  background-color: white;
+  /* height : 100px; */
+  display:inline-block;
+  position: absolute;
+  margin-left: 890px;
+  margin-top: 200px;
+  height: 250px;
+      width: 350px;
+  padding: 1.25rem;
+  font-size: 1.2rem;
+    font-weight: 600;
+    border-top: 5px solid hsl(212, 86%, 64%);
+
+    border-radius: 5px;
+    box-shadow:  0 0 15px darkgrey;
+}
+.calculator-para{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+    width: 67%;
+    margin: 0;
+    text-align: left;
+    color:#84a9ac;
+
+}
+.calculator-heading{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+}
+.calculator-image{
+  position: static;
+/* margin-bottom: 0; */
+/* float: right; */
+margin-left: 260px;
+margin-top: 40px;
+}
+.karma{
+  background-color: white;
+  display:inline-block;
+  position:absolute ;
+  margin-left: 470px;
+  margin-top: 360px;
+  height: 250px;
+      width: 350px;
+      padding: 1.25rem;
+      font-size: 1.2rem;
+        font-weight: 600;
+        border-top: 5px solid hsl(34, 97%, 64%);
+
+        border-radius: 5px;
+        box-shadow:  0 0 15px darkgrey;
+}
+.karma-heading{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+
+}
+.karma-para{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+    width: 67%;
+    margin: 0;
+    text-align: left;
+    color:#84a9ac;
+
+}
+.karma-image{
+  position: static;
+/* margin-bottom: 0; */
+/* float: right; */
+margin-left: 260px;
+margin-top: 40px;
+}
+.team-builder{
+  background-color:white;
+  display:inline-block;
+  position:absolute ;
+  height: 250px;
+      width: 350px;
+      margin-left: 470px;
+      margin-top: 40px;
+      padding: 1.25rem;
+      font-size: 1.2rem;
+        font-weight: 600;
+        border-top: 5px solid hsl(0, 78%, 62%);
+
+        border-radius: 5px;
+        box-shadow:  0 0 15px darkgrey;
+
+}
+.team-builder-heading{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+
+}
+.team-builder-para{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+    width: 67%;
+    margin: 0;
+    text-align: left;
+    color:#84a9ac;
+}
+.team-builderimage{
+  position: static;
+/* margin-bottom: 0; */
+/* float: right; */
+margin-left: 260px;
+margin-top: 40px;
+}
+.supervisor{
+  background-color:white;
+  display:inline-block;
+  position:absolute ;
+  height: 250px;
+      width: 350px;
+      margin-left: 50px;
+    margin-top: 200px;
+    padding: 1.25rem;
+    font-size: 1.2rem;
+      font-weight: 600;
+      border-top: 5px solid hsl(180, 62%, 55%);
+
+      border-radius: 5px;
+      box-shadow:  0 0 15px darkgrey;
+
+}
+.supervisor-heading{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+}
+.supervisor-para{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+    width: 67%;
+    margin: 0;
+    text-align: left;
+    color:#84a9ac;
+}
+.supervisor-image{
+  position: static;
+/* margin-bottom: 0; */
+/* float: right; */
+margin-left: 260px;
+margin-top: 40px;
+}
+.attribution{
+  margin-top: 53%;
+      margin-bottom: 20px;
+        margin-left: 455px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: #84a9ac
+}
